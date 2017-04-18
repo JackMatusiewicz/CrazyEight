@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CrazyEight", "CrazyEight\CrazyEight.fsproj", "{39425DB6-17FF-4612-8685-2F95F608C236}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Test", "Test\Test.fsproj", "{8F950C65-E190-4511-9718-2DB941238D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39425DB6-17FF-4612-8685-2F95F608C236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39425DB6-17FF-4612-8685-2F95F608C236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39425DB6-17FF-4612-8685-2F95F608C236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39425DB6-17FF-4612-8685-2F95F608C236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F950C65-E190-4511-9718-2DB941238D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F950C65-E190-4511-9718-2DB941238D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F950C65-E190-4511-9718-2DB941238D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F950C65-E190-4511-9718-2DB941238D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
